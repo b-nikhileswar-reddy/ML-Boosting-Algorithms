@@ -43,7 +43,7 @@ XGBoost is chosen because it:
 ---
 
 ## 📊 Results
-- Achieved 87% accuracy with 93% precision
+- Achieved `87% accuracy` with `93% precision`
 - Visualized
   - Classification Report and Confusion matrix
   - ROC-AUC and PR Curves
